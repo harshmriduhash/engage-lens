@@ -146,12 +146,3 @@ npm run dev
 
 ## 🎯 Vision
 EngageLens aims to revolutionize how creators and businesses understand and optimize their social media performance. By combining cutting-edge AI technology with robust analytics, we provide insights that are not just data points, but actionable strategies for growth.
-
-## 👥 Meet the minds behind EngageLens:
-
-- [Satvik Sharma](https://github.com/sudo-Satvik/)
-- [Sahil Sharma](https://github.com/SAHIL-Sharma21/)
-- [Devendra Kumar](https://github.com/KumaDevendra/)
-
-<hr>
-<h3>Created with ❤️ by Team ANiMAXiO</h3>
